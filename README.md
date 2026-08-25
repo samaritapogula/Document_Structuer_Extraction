@@ -4,7 +4,7 @@ This project is a persona-driven document retrieval system. Given a user persona
 
 The system is designed as a compact CPU-friendly retrieval pipeline using lightweight transformer embeddings and rule-based PDF structural analysis: it uses PyMuPDF for PDF parsing, `all-MiniLM-L6-v2` for sentence embeddings, and a 70/30 hybrid score that combines semantic similarity with keyword overlap.
 
-## Real Example Output
+## (Real Example Output)
 
 Input from `Collection 1/input.json`:
 
